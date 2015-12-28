@@ -21,3 +21,4 @@ def word_count(source_file, word_count_file):
 
 if __name__ == "__main__":            
     help(word_count)
+    print("test")
