@@ -30,3 +30,5 @@ for i in range(10):
     bar.move()
     bar.log("we have arrived at:" + str(i+1))
     time.sleep(1)
+
+print("-----end-----")
